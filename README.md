@@ -1,7 +1,7 @@
-## Hello!
+## Welcome!
 
-I'm a Mechanical Engineering student by Major, but I've always been drawn to the mathematical underpinnings of any subject I'm interested in (that is, most subjects), so my real academic specialty is in the realm of classical physics and dynamics. Over time, I've built up a small but growing library of physics simulations and I figure that here's a good place to show them off (I'd highly recommend checking out `WheelsWithinWheels.mlx`).
+Ever a generalist, my Mechanical Engineering degree belies a strong foundation of abstract math and physics that serves me well in picking up new tecnical fields.
 
-Though that isn't the principal repository on this site. Long before I realized just how mathematically painful 3D rolling is, I stumbled into a math problem so vast and infuriatingly fascinating that the better part of three years' worth of free time has not been enough to get better than a vague outline of what the solution might look like. Stated simply, the goal is to find all the equilibrium distributions of *n* electrons on a sphere, the main frustration, also stated simply, being that the vast majority of those distributions are unstable. Lucky for you, only I have to worry about all the difficulties of solving the problem; you get to just explore all the fun visualization programs I've developed to get a handle on it.
+Much of that foundation has been developed through exploring questions that interest me, and for a very long time I directed my free time to solving the problem now housed in the *N Points* repository. The deep familiarity with MATLAB that project provided would serve me well in my dynamics courses, and I have made a repository to house my favorite simulations.
 
-### Thanks for stopping by!
+The *portfolio* repository is the container for my digital CV website and can be accessed at [https://smostek.github.io/smostek-portfolio/](https://smostek.github.io/smostek-portfolio/)
